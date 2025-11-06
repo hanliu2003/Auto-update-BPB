@@ -6,7 +6,7 @@ on:
     branches:
       - main           # 当 main 分支更新时自动触发
   workflow_run:
-    workflows: ["Auto Update _worker."]
+    workflows: ["Auto Update _worker.js"]
     types:
       - completed     # 在 update_worker.yml 运行完成后自动触发
 
