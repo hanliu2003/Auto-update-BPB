@@ -114,3 +114,7 @@
 ## 🅿️ 自选IP优选工具使用
 1. 跳转链接下载: [IP优选[win电脑版].7z](https://github.com/XWF8188/Auto-update-B/blob/main/IP优选工具/CF优选官方IP%5Bwin电脑版%5D.7z)，解压后，退出代理，运行本软件。
 2. 跳转链接下载: [IP优选[CloudflareScanner]](https://github.com/bia-pain-bache/Cloudflare-Clean-IP-Scanner/releases/tag/v2.2.5)，解压后，退出代理，运行本软件。
+
+---
+## ⚙️ 详细部署流程
+[Cloudflare部署](https://blog.weibreeze.us.kg/2025/05/12/白嫖永久免费VPN/)
