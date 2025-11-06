@@ -3,7 +3,7 @@ name: Sync Latest Upstream Release
 on:
   workflow_dispatch:      # 手动触发
   schedule:
-    - cron: '0 3 * * *'   # 每天自动运行
+    - cron: '0 */12 * * *' # 每 12 小时运行一次
 
 jobs:
   sync-latest-release:
